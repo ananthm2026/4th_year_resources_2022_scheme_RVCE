@@ -5,6 +5,7 @@
 |1|Swastik Agrawal|[🔗](https://github.com/swastikagarwal11)|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
 |2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Rachith S|-|[🔗](https://www.linkedin.com/in/s-rachith-73b6aa344/)|
+|4|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __fourth year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
