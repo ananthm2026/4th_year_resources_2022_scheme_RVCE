@@ -5,7 +5,7 @@
 |1|Swastik Agrawal|[🔗](https://github.com/swastikagarwal11)|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
 |2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
 |3|Rachith S|-|[🔗](https://www.linkedin.com/in/s-rachith-73b6aa344/)|
-|4|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)|
+|4|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __fourth year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
@@ -19,10 +19,14 @@
 __You will get credits.__
 # Introduction 
 This repository contains the resources of 4th year courses in the 2022 scheme of AIML department(Some courses may be helpful for other branches), RV College of Engineering
+### For all branches
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Indian Knowledge Systems|HS271T|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Indian%20Knowledge%20Systems)|
 ### For AIML and CD
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
-|1|Stream Processing and Analytics|AI372IA|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Stream%20Processing%20and%20Analytics)
+|1|Stream Processing and Analytics|AI372IA|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Stream%20Processing%20and%20Analytics)|
 ### For only AIML
 #### Core courses
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
