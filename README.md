@@ -3,8 +3,8 @@
 * Did some changes in SPA Unit-4 Notes [Go Here](#for-aiml-and-cd)
 * Added new textbooks for XAI [Go Here](#professional-electives)
 * Added video links for IKS [Go Here](#for-all-branches)
-* Added Agentic AI and SPA notes[Go Here](#for-aiml-and-cd)
-* Added XAI notes[Go Here](#professional-electives)
+* Added Agentic AI and SPA notes [Go Here](#for-aiml-and-cd)
+* Added XAI notes [Go Here](#professional-electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
