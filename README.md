@@ -1,10 +1,10 @@
 # 4th_year_resources_2022_scheme_RVCE
 # Recent Updates
+* Added MoM, IKS notes, and CIE-1 papers of MoM, XAI and SPA [Go Here](#for-all-branches)
 * Did some changes in SPA Unit-4 Notes [Go Here](#for-aiml-and-cd)
 * Added new textbooks for XAI [Go Here](#professional-electives)
 * Added video links for IKS [Go Here](#for-all-branches)
 * Added Agentic AI and SPA notes [Go Here](#for-aiml-and-cd)
-* Added XAI notes [Go Here](#professional-electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
@@ -44,3 +44,7 @@ This repository contains the resources of 4th year courses in the 2022 scheme of
 |1|AI in Autonomous Vehicles|AI374TFA|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Artificial%20Intelligence%20in%20Autonomous%20Vehicles)
 |2|Explainable AI|AI374TFB|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Explainable%20AI)
 |3|AI Product Management|AI374TFD |[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Artificial%20Intelligence%20Product%20Management)
+### Institutional Electives
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Mathematics of Music|MA375TGR|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Institutional%20Electives/Mathematics%20for%20Music)|
