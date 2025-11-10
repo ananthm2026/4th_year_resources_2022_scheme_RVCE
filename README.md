@@ -1,17 +1,16 @@
 # 4th_year_resources_2022_scheme_RVCE
 # Recent Updates
+* Added MoM, IKS notes, and CIE-1 papers of MoM, XAI and SPA [Go Here](#for-all-branches)
 * Did some changes in SPA Unit-4 Notes [Go Here](#for-aiml-and-cd)
 * Added new textbooks for XAI [Go Here](#professional-electives)
 * Added video links for IKS [Go Here](#for-all-branches)
 * Added Agentic AI and SPA notes [Go Here](#for-aiml-and-cd)
-* Added XAI notes [Go Here](#professional-electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
 |1|Swastik Agrawal|[🔗](https://github.com/swastikagarwal11)|[🔗](https://www.linkedin.com/in/swastik-agarwal-797132291/)|
 |2|Ananth M Athreya|[🔗](https://github.com/AnanthMAthreya)|[🔗](https://www.linkedin.com/in/ananth-m-athreya-963262287/)|
-|3|Rachith S|-|[🔗](https://www.linkedin.com/in/s-rachith-73b6aa344/)|
-|4|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)
+|3|Anant Tewari|[🔗](https://github.com/ananttewari)|[🔗](https://www.linkedin.com/in/anant-tewari-286649257/)
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __fourth year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
@@ -44,3 +43,7 @@ This repository contains the resources of 4th year courses in the 2022 scheme of
 |1|AI in Autonomous Vehicles|AI374TFA|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Artificial%20Intelligence%20in%20Autonomous%20Vehicles)
 |2|Explainable AI|AI374TFB|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Explainable%20AI)
 |3|AI Product Management|AI374TFD |[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Professional%20Electives/Artificial%20Intelligence%20Product%20Management)
+### Institutional Electives
+|**Sl no.**|**Course Name**|**Course code**|**Github**|
+|-|-|-|-|
+|1|Mathematics of Music|MA375TGR|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Institutional%20Electives/Mathematics%20for%20Music)|
