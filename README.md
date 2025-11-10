@@ -1,10 +1,10 @@
 # 4th_year_resources_2022_scheme_RVCE
 # Recent Updates
+* Added IKS question banks, and CIE-1 papers of AAI and IKS [Go Here](#for-all-branches)
 * Added MoM, IKS notes, and CIE-1 papers of MoM, XAI and SPA [Go Here](#for-all-branches)
 * Did some changes in SPA Unit-4 Notes [Go Here](#for-aiml-and-cd)
 * Added new textbooks for XAI [Go Here](#professional-electives)
 * Added video links for IKS [Go Here](#for-all-branches)
-* Added Agentic AI and SPA notes [Go Here](#for-aiml-and-cd)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
