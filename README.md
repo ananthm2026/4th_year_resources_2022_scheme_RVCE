@@ -1,10 +1,10 @@
 # 4th_year_resources_2022_scheme_RVCE
 # Recent Updates
+* Added CIE-2 papers of 7th sem courses and MoM unit-4[Go Here](#for-all-branches)
 * Added unit-3 and 4 notes for IKS [Go Here](#for-all-branches)
 * Added highlighted notes for AAI cie-2 [Go Here](#core-courses)
 * Added IKS question banks, and CIE-1 papers of AAI and IKS [Go Here](#for-all-branches)
 * Added MoM, IKS notes, and CIE-1 papers of MoM, XAI and SPA [Go Here](#for-all-branches)
-* Did some changes in SPA Unit-4 Notes [Go Here](#for-aiml-and-cd)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
