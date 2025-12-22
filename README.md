@@ -47,3 +47,5 @@ This repository contains the resources of 4th year courses in the 2022 scheme of
 |**Sl no.**|**Course Name**|**Course code**|**Github**|
 |-|-|-|-|
 |1|Mathematics of Music|MA375TGR|[🔗](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE/tree/main/Institutional%20Electives/Mathematics%20for%20Music)|
+# See more
+- [Placement preparation](https://github.com/AnanthMAthreya/Placement_prep)
